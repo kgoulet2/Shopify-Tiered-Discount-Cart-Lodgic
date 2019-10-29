@@ -1,2 +1,4 @@
 # Shopify-Tiered-Discount-Cart-Lodgic
-How to apply tiered discount to Shopify plus plans and add in cart incentives to add products to cart
+basic tired pricing using Shopify script and display in line item.  
+
+Liquid lodgic needed to add in cart incentive (purchase X more to receive X off)
