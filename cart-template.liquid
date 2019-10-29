@@ -1,0 +1,4 @@
+{% if item.total_discount > 0 %}
+        <s>{{ item.original_line_price }}</s>
+        ( {{ item.message }} )
+      {% endif %}
